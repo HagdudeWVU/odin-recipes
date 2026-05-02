@@ -3,4 +3,4 @@
 ## Current recipes:
 - Fettaccine Alfredo! (my favorite)
 - Lasagna
-- git BBQ chicken pizza
+- BBQ chicken pizza
