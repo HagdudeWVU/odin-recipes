@@ -1,0 +1,26 @@
+body {
+    background-color: #A1C6EA;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.links {
+    border: 1px;
+    border-color: black;
+    border-radius: 15px;
+    padding: 25px;
+    margin: 75px;
+    background-color: #BBD1EA;
+}
+
+a.buttons {
+    display: inline-block;
+    margin: 5px;
+    padding: 1px 6px;
+    border: 1px;
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
